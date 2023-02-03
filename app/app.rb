@@ -1,3 +1,4 @@
+require "sinatra/reloader"
 require 'sinatra'
 require "sinatra/namespace"
 require 'json'
