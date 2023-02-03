@@ -4,3 +4,5 @@ gem 'sinatra'
 gem 'webrick'
 gem 'rack'
 gem 'rackup'
+
+gem 'sinatra-contrib'
